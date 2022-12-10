@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+MTDZ NFT 정보 프론트 페이지 출력 (Next.js)
 
 ## Getting Started
 
